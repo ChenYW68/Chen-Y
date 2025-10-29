@@ -37,11 +37,11 @@ profiles:
     url: 'yewen.chen@uga.edu'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
+    url: 
   - icon: brands/github
     url: https://github.com/ChenYW68/
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: 
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=pxLpqLMAAAAJ&hl=en
   - icon: academicons/orcid
@@ -72,7 +72,6 @@ education:
     date_start: 2013-09
     date_end: 2016-07
     summary: |
-
       Specialized in statistical change point detection.
   - area: BS Information and Computational Science
     institution: Beijing University of Technology
@@ -81,7 +80,6 @@ education:
     date_end: 2013-07
     summary: |
       GPA: 3.9/4.0
-
       Minored in Mathematics.
 
 work:
