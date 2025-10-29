@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yewen Chen
+title: Yewen
 
 # Name pronunciation (optional)
 name_pronunciation: ''
