@@ -62,7 +62,7 @@ education:
     date_start: 2018-09
     date_end: 2023-08
     summary: |
-      Thesis on _Several Problems in Modeling Complex Spatio-Temporal Data_. Supervised by Prof. Hui Huang. Published more than ten peer-reviewed papers in mathematics, statistics, and epidemiology journals.
+      Thesis on ``Several Problems in Modeling Complex Spatio-Temporal Data''. Supervised by Prof. Hui Huang. Published more than ten peer-reviewed papers in mathematics, statistics, and epidemiology journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com/thesis.pdf'
