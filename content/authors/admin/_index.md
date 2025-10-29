@@ -159,10 +159,10 @@ awards:
     icon: hero/currency-dollar
     summary: |
       $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
+  - title: Outstanding
+    url: 
     date: '2019-06-30'
-    awarder: Stanford University
+    awarder: 
     icon: hero/academic-cap
     summary: |
       Recognized for contributions to scaling laws in deep learning.
