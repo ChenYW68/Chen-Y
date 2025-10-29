@@ -39,13 +39,13 @@ profiles:
   - icon: brands/x
     url: https://twitter.com/AlexAIResearch
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://github.com/ChenYW68/
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/alexjohnsonai/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: https://scholar.google.com/citations?user=pxLpqLMAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0000-0001-9969-5137
 
 interests:
   - Large Language Models
