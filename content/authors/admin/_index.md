@@ -48,40 +48,41 @@ profiles:
     url: https://orcid.org/0000-0001-9969-5137
 
 interests:
+  - Spatiotemporal Statistics
+  - Bayesian Analysis
+  - Ensemble Algorithms
+  - Semiparametric Modeling
+  - Public Health
   - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
+  - area: PhD Statistics (Spatial and Spatiotemporal Statistics Focus)
+    institution: Sun Yat-sen University 
     icon: ""
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+    date_start: 2018-09
+    date_end: 2023-08
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
+      Thesis on _Several Problems in Modeling Complex Spatio-Temporal Data_. Supervised by Prof. Hui Huang. Published more than ten peer-reviewed papers in mathematics, statistics, and epidemiology journals..
     button:
       text: 'Read Thesis'
       url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
+  - area: MS Statistics
+    institution: Guizhou University
     icon: ""
-    date_start: 2013-09-01
-    date_end: 2015-05-31
+    date_start: 2013-09
+    date_end: 2016-07
     summary: |
-      GPA: 4.0/4.0
 
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
+      Specialized in statistical change point detection.
+  - area: BS Information and Computational Science
+    institution: Beijing University of Technology
     icon: ""
-    date_start: 2009-09-01
-    date_end: 2013-05-31
+    date_start: 2009-09
+    date_end: 2013-07
     summary: |
       GPA: 3.9/4.0
 
-      Minored in Mathematics. President of AI Club.
+      Minored in Mathematics.
 
 work:
   - position: Senior AI Research Scientist
