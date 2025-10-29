@@ -169,4 +169,4 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
- Dr. Chen earned his PhD in Statistics and has extensive experience in developing advanced statistical methodologies and highly efficient Bayesian ensemble algorithms for complex dependent data, with applications in environmental science and public health
+ Dr. Chen earned his PhD in Statistics and has extensive experience in developing advanced statistical methodologies and highly efficient Bayesian ensemble algorithms for complex dependent data, with applications in environmental science and public health.
